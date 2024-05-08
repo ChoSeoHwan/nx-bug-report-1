@@ -32,6 +32,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
+          ["@inquirer/prompts", "npm:5.0.2"],\
           ["@nx/devkit", "virtual:c909bf8cee1adc918d4f89e4e49a443fa6c6babb779b469cdd76edd7daded0faa6436b56e3d391070b42207b92d59473f6d8d2fc5a806ce5333c85cc7e107265#npm:19.0.1"],\
           ["@nx/eslint", "virtual:805476e7d24d593df345709a19669db9412c76823d181fd72ee49d39daf67912ec0f3dfd0927f29637c21977ba6194701bdd144bfb31e61030e7b3ca7fd3b6cd#npm:19.0.1"],\
           ["@nx/eslint-plugin", "virtual:c909bf8cee1adc918d4f89e4e49a443fa6c6babb779b469cdd76edd7daded0faa6436b56e3d391070b42207b92d59473f6d8d2fc5a806ce5333c85cc7e107265#npm:19.0.1"],\
@@ -9096,6 +9097,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["nx-bug-report-1", "workspace:."],\
+          ["@inquirer/prompts", "npm:5.0.2"],\
           ["@nx/devkit", "virtual:c909bf8cee1adc918d4f89e4e49a443fa6c6babb779b469cdd76edd7daded0faa6436b56e3d391070b42207b92d59473f6d8d2fc5a806ce5333c85cc7e107265#npm:19.0.1"],\
           ["@nx/eslint", "virtual:805476e7d24d593df345709a19669db9412c76823d181fd72ee49d39daf67912ec0f3dfd0927f29637c21977ba6194701bdd144bfb31e61030e7b3ca7fd3b6cd#npm:19.0.1"],\
           ["@nx/eslint-plugin", "virtual:c909bf8cee1adc918d4f89e4e49a443fa6c6babb779b469cdd76edd7daded0faa6436b56e3d391070b42207b92d59473f6d8d2fc5a806ce5333c85cc7e107265#npm:19.0.1"],\

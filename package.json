@@ -6,10 +6,12 @@
   "author": "'아이작_조서환' <wtae1216@afreecatv.com>",
   "license": "MIT",
   "packageManager": "yarn@4.2.1",
+  "type": "module",
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
+    "@inquirer/prompts": "^5.0.2",
     "@nx/eslint": "^19.0.1",
     "@nx/eslint-plugin": "19.0.1",
     "@nx/jest": "19.0.1",
