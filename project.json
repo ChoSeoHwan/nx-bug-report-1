@@ -1,0 +1,11 @@
+{
+  "name": "nx-bug-report-1",
+  "$schema": "https://raw.githubusercontent.com/nrwl/nx/19.0.1/packages/nx/schemas/project-schema.json",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "my-test": {
+      "executor": "@nx-bug-report-1/plugin:my-test"
+    }
+  }
+}

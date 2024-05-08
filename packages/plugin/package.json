@@ -1,0 +1,16 @@
+{
+  "name": "@nx-bug-report-1/plugin",
+  "version": "0.0.1",
+  "dependencies": {
+    "@nx/devkit": "19.0.1",
+    "tslib": "^2.3.0"
+  },
+  "type": "module",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts",
+  "private": true,
+  "devDependencies": {
+    "@inquirer/prompts": "^5.0.2"
+  },
+  "executors": "./executors.json"
+}
